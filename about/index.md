@@ -8,6 +8,8 @@ comments: false
     
 <center><i>I design the future which everybody just imagine.</i></center>
 
+---
+
 ## Skill
 ### Language
 C/C++
@@ -21,7 +23,6 @@ CSS, HTML5 (Now Studying)
 Craftsman Information Processing
 Linux Master (Intermediate)
 
----
 ---
 
 ## Awards and Honors
