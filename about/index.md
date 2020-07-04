@@ -6,9 +6,9 @@ date: 2020-07-04
 comments: false
 ---
     
-<center>I design the future which everybody just imagine.</center>
+<center><i>I design the future which everybody just imagine.</i></center>
 
-### Skill
+## Skill
 ### Language
 C/C++
 ### Embedded
