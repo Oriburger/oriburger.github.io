@@ -20,8 +20,8 @@ Unreal Engine 4, Rhino
 ### Front-End
 CSS, HTML5 (Now Studying)
 ### Certificate
-Craftsman Information Processing
-Linux Master (Intermediate)
+Craftsman Information Processing<br>
+Linux Master (Intermediate)<br>
 
 ---
 
