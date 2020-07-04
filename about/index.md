@@ -9,12 +9,16 @@ comments: false
 <center>I design the future which everybody just imagine.</center>
 
 ## Skill
-* Language : C/C++
-* Embedded : Arduino, Raspberry Pi
-* Game : Unreal Engine 4, Rhino
-* Front-End : HTML5 (Now Studying)
+### Language
+C/C++
+### Embedded
+Arduino, Raspberry Pi
+### Game
+Unreal Engine 4, Rhino
+### Front-End
+CSS, HTML5 (Now Studying)
 
-## 
+
 
 
 
