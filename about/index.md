@@ -12,25 +12,26 @@ comments: false
 
 ## Skill
 ### Language
-* C/C++
+C/C++
 
 ### Embedded
-* Arduino / Raspberry Pi
+Arduino / Raspberry Pi
 
 ### Game
-* Unreal Engine 4
-* Rhino
+Unreal Engine 4
+Rhino
 
 ### Front-End
-* CSS, HTML5 (Now Studying)
+CSS, HTML5 (Now Studying)
 
 ### Certificate
-* Craftsman Information Processing
-* Linux Master (Intermediate)
+Craftsman Information Processing
+Linux Master (Intermediate)
 
 ---
 
 ## Awards and Honors
+<br>
 2017 KOI(Korea Olympiad in Informatics, a preliminary contest) **Honorable Mention** <br><br>
 2017 UOU(University of Ulsan) Maker of Ulsan Contest **Silver Award** <br><br>
 2017 UOU(University of Ulsan) Maker of Ulsan Education Completion <br><br>
