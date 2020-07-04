@@ -23,7 +23,9 @@ CSS, HTML5 (Now Studying)
 Craftsman Information Processing<br>
 Linux Master (Intermediate)<br>
 
-<br>---<br>
+<br>
+---
+<br>
 
 ## Awards and Honors
 2017 KOI(Korea Olympiad in Informatics) **Honorable Mention**<br>
