@@ -10,13 +10,13 @@ comments: false
 
 ## Skill
 ### Language
-C/C++
+**C/C++**
 ### Embedded
-Arduino, Raspberry Pi
+**Arduino, Raspberry Pi**
 ### Game
-Unreal Engine 4, Rhino
+**Unreal Engine 4, Rhino**
 ### Front-End
-CSS, HTML5 (Now Studying)
+**CSS, HTML5 (Now Studying)**
 
 
 
