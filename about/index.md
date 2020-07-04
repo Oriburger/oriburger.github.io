@@ -31,12 +31,12 @@ comments: false
 ---
 
 ## Awards and Honors
-#### 2017 KOI(Korea Olympiad in Informatics, a preliminary contest) **Honorable Mention**
-#### 2017 UOU(University of Ulsan) Maker of Ulsan Contest **Silver Award**
-#### 2017 UOU(University of Ulsan) Maker of Ulsan Education Completion
-#### 2018 KOI(Korea Olympiad in Informatics, a preliminary contest) **Bronze Award**
-#### 2018 KMU(Kookmin University) Algorithm Contest **Honorable Mention** *(total score : 174.5)*
-#### 2019 Daegu Rising Game Open Competition **Excellence Award**
+2017 KOI(Korea Olympiad in Informatics, a preliminary contest) **Honorable Mention** <br><br>
+2017 UOU(University of Ulsan) Maker of Ulsan Contest **Silver Award** <br><br>
+2017 UOU(University of Ulsan) Maker of Ulsan Education Completion <br><br>
+2018 KOI(Korea Olympiad in Informatics, a preliminary contest) **Bronze Award** <br><br>
+2018 KMU(Kookmin University) Algorithm Contest **Honorable Mention** *(total score : 174.5)* <br><br>
+2019 Daegu Rising Game Open Competition **Excellence Award** <br><br>
 
 
 
