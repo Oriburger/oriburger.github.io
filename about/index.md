@@ -13,13 +13,17 @@ comments: false
 ## Skill
 ### Language
 * C/C++
+
 ### Embedded
 * Arduino / Raspberry Pi
+
 ### Game
 * Unreal Engine 4
 * Rhino
+
 ### Front-End
 * CSS, HTML5 (Now Studying)
+
 ### Certificate
 * Craftsman Information Processing
 * Linux Master (Intermediate)
