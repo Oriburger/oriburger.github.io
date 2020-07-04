@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Moon Jekyll Theme (Moved)"
 date:   2016-04-06
 excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
+project: false
 tag:
 - jekyll 
 - moon
