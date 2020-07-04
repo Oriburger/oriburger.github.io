@@ -17,7 +17,20 @@ Arduino, Raspberry Pi
 Unreal Engine 4, Rhino
 ### Front-End
 CSS, HTML5 (Now Studying)
+### Certificate
+Craftsman Information Processing
+Linux Master (Intermediate)
 
+---
+---
+
+## Awards and Honors
+2017 KOI(Korea Olympiad in Informatics) **Honorable Mention**
+2017 UOU(University of Ulsan) Maker of Ulsan Contest **Silver Award**
+2017 UOU(University of Ulsan) Maker of Ulsan Education Completion
+2018 KOI(Korea Olympiad in Informatics) **Bronze Award**
+2018 KMU(Kookmin University) Algorithm Contest **Honorable Mention** *(total score : 174.5)*
+2019 Daegu Rising Game Open Competition **Excellence Award**
 
 
 
