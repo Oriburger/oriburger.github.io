@@ -24,7 +24,7 @@ Unreal Engine 4
 *CSS, HTML5 (Now Studying)*
 
 ### Certificate
-Craftsman Information Processing
+Craftsman Information Processing<br>
 Linux Master (Intermediate)
 
 ---
