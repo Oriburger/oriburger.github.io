@@ -21,7 +21,7 @@ Arduino / Raspberry Pi
 Unreal Engine 4
 
 ### Front-End
-~~*CSS, HTML5 (Now Studying)*~~
+*CSS, HTML5 (Now Studying)*
 
 ### Certificate
 Craftsman Information Processing<br>
