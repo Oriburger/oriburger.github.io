@@ -6,7 +6,7 @@ date: 2020-07-04
 comments: false
 ---
     
-<center><i>I design the future which everybody just imagine.</i></center>
+<center><i>I design the future which everybody merely imagine.</i></center>
 
 ---
 
