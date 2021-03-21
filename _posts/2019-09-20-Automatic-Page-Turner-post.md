@@ -2,7 +2,7 @@
 layout: post
 title:  "Automatic Page Turner with Eyetracker"
 date:   2019-09-20
-excerpt: "You only need eyes and a book when reading, "even" with the use of your hands."
+excerpt: "You only need eyes and a book when reading, \"even\" with the use of your hands."
 project: true
 tag:
 - project 
