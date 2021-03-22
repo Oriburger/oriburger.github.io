@@ -2,7 +2,7 @@
 layout: post
 title:  "Downsized (Temporary title)"
 date:   2019-08-01
-excerpt: "Escape drainage pipes relying on a lighter."
+excerpt: "Survive! Through the darkness of the drainage pipes, with the only hope you rely on is a lighter"
 project: true
 tag:
 - game
