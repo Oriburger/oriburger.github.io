@@ -20,9 +20,6 @@ Arduino / Raspberry Pi
 ### Game
 Unreal Engine 4
 
-### Front-End
-*CSS, HTML5 (Now Studying)*
-
 ### Certificate
 Craftsman Information Processing<br>
 Linux Master (Intermediate)
